@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 61c9b9a8684c74389871dfccad682f17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sleepMusic: {fileID: 8300000, guid: 49448ad31f533144392cde93e479b5ed, type: 3}
+  - sleepingCharacter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
